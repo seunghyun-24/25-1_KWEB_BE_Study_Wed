@@ -1,0 +1,25 @@
+{
+  "name": "25-1_kweb_be_study_wed",
+  "version": "1.0.0",
+  "description": "2025학년도 1학기 준회원 백엔드 스터디, 수요일 분반 과제 관리를 위한 레포지토리입니다.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/seunghyun-24/25-1_KWEB_BE_Study_Wed.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/seunghyun-24/25-1_KWEB_BE_Study_Wed/issues"
+  },
+  "homepage": "https://github.com/seunghyun-24/25-1_KWEB_BE_Study_Wed#readme",
+  "dependencies": {
+    "express": "^5.1.0",
+    "pug": "^3.0.3"
+  }
+}
